@@ -1,2 +1,3 @@
-version: 1
-type: prod
+info:
+  version: 1
+  type: prod
