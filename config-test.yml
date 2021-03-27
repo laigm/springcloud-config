@@ -1,2 +1,3 @@
-version: 1
-type: test
+info:
+  version: 1
+  type: test
