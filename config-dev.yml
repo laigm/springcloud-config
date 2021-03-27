@@ -1,2 +1,3 @@
-version: 1
-type: dev
+info:
+  version: 1
+  type: dev
