@@ -1,3 +1,2 @@
-info:
-  version: 1
-  type: dev
+config:
+    info: "version: 1   type: dev"
